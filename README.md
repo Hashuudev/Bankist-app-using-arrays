@@ -29,3 +29,7 @@ This is the template login details to use the bank functionality. The project do
 
 # Screenshots
 
+![1](https://github.com/Hashuudev/Bankist-app-using-arrays/assets/94761963/8ef9879a-99dd-4a36-853c-7c7863649962)
+
+![2](https://github.com/Hashuudev/Bankist-app-using-arrays/assets/94761963/38da8638-24da-4cd6-9f00-7fde26d0a04d)
+
