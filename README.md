@@ -22,5 +22,10 @@ This is the template login details to use the bank functionality. The project do
 | Steven Thomas Williams| stw| 3333|
 | Sarah Smith| ss| 4444|
 
+# Technologies Used
+* HTML
+* CSS
+* Vanilla JavaScript
 
+# Screenshots
 
