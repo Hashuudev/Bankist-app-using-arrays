@@ -13,10 +13,12 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 
 # Log in credentials :
 
-| Header 1 | Header 2 | Header 3 |
+| Username | UserId | Password |
 |----------|----------|----------|
-| Content 1| Content 2| Content 3|
-| Content 4| Content 5| Content 6|
-| Content 7| Content 8| Content 9|
-| Content 10| Content 11| Content 12|
+| Jonas Schmedtmann| js| 1111|
+| Jessica Davis| jd| 2222|
+| Steven Thomas Williams| stw| 3333|
+| Sarah Smith| ss| 4444|
+
+
 
