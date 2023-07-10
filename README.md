@@ -13,7 +13,7 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 
 # Log in credentials :
 
-|  Username  |  UserId |
+|  Username  |  UserId ||  Username  |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
