@@ -12,3 +12,8 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 * Close (delete) accoun
 
 # Log in credentials :
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
