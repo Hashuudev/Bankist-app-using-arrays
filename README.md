@@ -9,7 +9,7 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 * Login
 * Transfer a value to another account
 * Get loans
-* Close (delete) accoun
+* Close (delete) account
 
 # Log in credentials :
 
